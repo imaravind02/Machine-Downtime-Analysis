@@ -1,5 +1,5 @@
 # Machine Downtime Dashboard
-![Project Logo](Machine Downtime.png)
+![Project Logo](Machine.png)
 ## Overview
 A **Machine Downtime Monitoring Dashboard** designed to analyze machine performance, downtime events, hydraulic pressure, vibration levels, and spindle speed.
 
